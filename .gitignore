@@ -1,0 +1,7 @@
+# Zip archives (Nexus packages)
+*.zip
+
+# OS
+Thumbs.db
+.DS_Store
+"
